@@ -6,11 +6,11 @@
  1. Pages
 
  There are Five pages as mentioned, but the page's details are as;
- 1.Home (worked on by "Project.html")
- 2.Explore (worked on by "Explore.html")
- 3.Styling (worked on by "styling.html")
- 4.Reviews (worked on by "reviews.html")
- 5.Support (worked on by "support.html")
+ 1. Home (worked on by "Project.html")
+ 2. Explore (worked on by "Explore.html")
+ 3. Styling (worked on by "styling.html")
+ 4. Reviews (worked on by "reviews.html")
+ 5. Support (worked on by "support.html")
 
  2. Details about pages
 
